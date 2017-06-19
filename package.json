@@ -1,8 +1,14 @@
 {
   "name": "boolean-shapely",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Boolean Shapely - Used for TurfJS boolean testing",
   "main": "index.js",
+  "types": "index.d.t",
+  "files":[
+    "index.js",
+    "index.d.ts",
+    "index.py"
+  ],
   "scripts": {
     "test": "node test.js"
   },
