@@ -9,6 +9,10 @@
     "index.d.ts",
     "index.py"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DenisCarriere/boolean-shapely.git"
+  },
   "scripts": {
     "test": "node test.js"
   },
